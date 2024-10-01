@@ -1,4 +1,4 @@
-$githubUser = "CrazyWolf13" # Change this here if you forked the repository.
+$githubUser = "prbmic19" # Change this here if you forked the repository.
 $name= "User" # Change this to your name.
 $githubRepo = "unix-pwsh" # Change this here if you forked the repository and changed the name.
 $githubBaseURL= "https://raw.githubusercontent.com/$githubUser/$githubRepo/main"
